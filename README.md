@@ -1,5 +1,5 @@
 # Prodigy-Infotech-DS-Task-4
-# 📘Build a decision tree classifier to predict whether a
+# 📘Build a decision tree classifier to predict whether a Customer will take the service or not
 customer will purchase a product or service based on their
 demographic and behavioral data
 
